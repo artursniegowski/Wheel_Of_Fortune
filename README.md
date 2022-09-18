@@ -8,4 +8,9 @@ computer players should play the game. The player can decide the difficulty
 level of the computer players. The aim is to guess the phrase or the next 
 character correctly and win the rewards.
 
+Game views:
+
+ ![Screenshot](docs/img/starting_view.PNG)</br>
  
+ 
+ ![Screenshot](docs/img/another_view.PNG)</br>
